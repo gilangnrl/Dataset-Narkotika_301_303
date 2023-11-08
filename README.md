@@ -4,4 +4,4 @@ Scraping Dataset Tentang Putusan Narkotika dan Psikotropika. Dataset diambil dar
 - Tahun putusan yang diambil adalah pada tahun 2022
 - Klasifikasi putusan hanya tentang "Narkotika dan Psikotropika"
 - Dataset putusan diambil dari PN Balikpapan
-- Dataset yang diperoleh adalah sebanyak 234 dokumen dalam bentuk PDF
+- Dataset yang diperoleh adalah sebanyak 67 dokumen dalam bentuk PDF
